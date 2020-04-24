@@ -6,10 +6,10 @@
 
 **Massachusetts Institute Of Technology.**
 
-### JavaScript Coded:
+### JavaScript Code Running:
 
 <script language="javascript">
-  document.write("<h1>Hello World</h1>");
+  document.write('<p style="font-size:14px; font-weight: bold;">Hello World</p>');
 </script>
 
 
