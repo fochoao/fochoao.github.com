@@ -8,8 +8,12 @@
 
 ### PHP Coded:
 
-```php
-printf("Hello World!");
+```javascript
+function fancyAlert(arg) {
+  if(arg) {
+    $.facebox({div:'#foo'})
+  }
+}
 ```
 
 ### Support or Contact:
