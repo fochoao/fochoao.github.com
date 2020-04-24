@@ -4,8 +4,6 @@
 
 ### Done by Fernando O.
 
-`<?php printf("Hello World!"); ?>`
-
 **Massachusetts Institute Of Technology.**
 
 ### PHP Coded:
