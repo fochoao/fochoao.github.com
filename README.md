@@ -6,7 +6,7 @@
 
 **Massachusetts Institute Of Technology.**
 
-### PHP Coded:
+### JavaScript Coded:
 
 ```javascript
 function fancyAlert(arg) {
