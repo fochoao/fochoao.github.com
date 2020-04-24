@@ -8,12 +8,12 @@
 
 ### JavaScript Coded:
 
-```javascript
+<script type="text/javascript"
 var hello = true;
 if (hello) {
   return "Hello World!"
 }
-```
+</script>
 
 ### Support or Contact:
 
