@@ -31,3 +31,6 @@
 ### Support or Contact:
 
 fochoao @ pm.me
+
+  
+<?php phpversion(); ?>
