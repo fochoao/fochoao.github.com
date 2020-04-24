@@ -9,10 +9,17 @@
 ### JavaScript Coded:
 
 <script language="javascript">
- 
-alert("Hello World");
- 
+  document.write("<h1>Hello World</h1>");
 </script>
+
+
+### JavaScript Code:
+
+```
+<script language="javascript">
+  document.write("<h1>Hello World</h1>");
+</script>
+```
 
 ### Support or Contact:
 
