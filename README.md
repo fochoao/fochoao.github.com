@@ -8,14 +8,10 @@
 
 **Massachusetts Institute Of Technology.**
 
-[Link](url) and ![Image](src)
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
 ### PHP Coded:
 
 <?php printf("Hello World!");
 
-### Support or Contact
+### Support or Contact:
 
 fochoao<at>pm.me
