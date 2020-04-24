@@ -9,10 +9,9 @@
 ### JavaScript Coded:
 
 ```javascript
-function fancyAlert(arg) {
-  if(arg) {
-    $.facebox({div:'#foo'})
-  }
+var hello = true;
+if (hello) {
+  return "Hello World!"
 }
 ```
 
