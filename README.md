@@ -1,6 +1,6 @@
 ## Welcome to my Github Website
 
-## Site Done for the Corse DevOps and Cloud for the M.I.T.
+## Site Done for the Course DevOps and Cloud for the M.I.T.
 
 ### Done by Fernando O.
 
@@ -12,10 +12,10 @@
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+### PHP Coded:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fochoao/fochoao.github.com/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+<?php printf("Hello World!");
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+fochoao<at>pm.me
