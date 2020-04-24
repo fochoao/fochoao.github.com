@@ -8,16 +8,12 @@
 
 
 
-
-
 ### JavaScript Code Running:
-
 
 
 <script language="javascript">
   document.write('<p style="font-size:14px; font-weight: bold;">Hello World!</p>');
 </script>
-
 
 
 ### JavaScript Code:
@@ -32,5 +28,15 @@
 
 fochoao @ pm.me
 
-  
-<?php phpversion(); ?>
+### PHP Code:
+
+```
+<?php printf('<p style="font-size:14px; font-weight: bold;">Hello World!</p>'); ?>
+```
+
+### Python Code:
+
+```
+salute = 'Hello World!'
+print(salute)
+```
