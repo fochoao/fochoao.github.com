@@ -8,11 +8,10 @@
 
 ### JavaScript Coded:
 
-<script type="text/javascript"
-var hello = true;
-if (hello) {
-  return "Hello World!"
-}
+<script language="javascript">
+ 
+alert("Hello World");
+ 
 </script>
 
 ### Support or Contact:
