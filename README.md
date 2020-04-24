@@ -8,7 +8,9 @@
 
 ### PHP Coded:
 
-```<?php printf("Hello World!"); ?>```
+```php
+printf("Hello World!");
+```
 
 ### Support or Contact:
 
